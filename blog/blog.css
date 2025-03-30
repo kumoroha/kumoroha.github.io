@@ -1,4 +1,8 @@
 @charset "UTF-8"
 body {
-background-color: ivori
+background-color: ivori;
+}
+
+h1 {
+font-family: cursiv;
 }
