@@ -730,7 +730,7 @@ animationの行の「0.05s」が文字の出現のなめらかさで、大きい
 .ta1 caption {
 	font-weight: bold;		/*太字に*/
 	padding: 0.5rem 1rem;	/*ボックス内の余白*/
-	background: #333;		/*背景色*/
+	background: #777;		/*背景色*/
 	color: #fff;			/*文字色*/
 	margin-bottom: 1rem;	/*下に空けるスペース*/
 	border-radius: 5px;		/*角を丸くする指定*/
