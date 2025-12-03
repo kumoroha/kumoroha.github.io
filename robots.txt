@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /119sys/
+Disallow: /close/
+Disallow: /fukufuku/
+Disallow: /fdma/
+Disallow: /portal/
+Disallow: /trainboard/
+Disallow: /realtimequake/
+Disallow: /200why/
+Disallow: /otogame/
+Sitemap: https://kumoroha.github.io/sitemap.xml
